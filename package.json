@@ -21,6 +21,9 @@
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.8",
+    "@types/node": "^24.0.15",
+    "@types/react": "^19.1.8",
+    "typescript": "^5.8.3",
     "vite": "^6.3.5"
   }
 }
